@@ -1,0 +1,6 @@
+c:\users\vpillai\documents\visual studio 2012\Projects\entropyCalculator_ClusterBased\entropyCalculator_ClusterBased\bin\Debug\entropyCalculator_ClusterBased.exe.config
+c:\users\vpillai\documents\visual studio 2012\Projects\entropyCalculator_ClusterBased\entropyCalculator_ClusterBased\bin\Debug\entropyCalculator_ClusterBased.exe
+c:\users\vpillai\documents\visual studio 2012\Projects\entropyCalculator_ClusterBased\entropyCalculator_ClusterBased\bin\Debug\entropyCalculator_ClusterBased.pdb
+c:\users\vpillai\documents\visual studio 2012\Projects\entropyCalculator_ClusterBased\entropyCalculator_ClusterBased\obj\Debug\entropyCalculator_ClusterBased.csprojResolveAssemblyReference.cache
+c:\users\vpillai\documents\visual studio 2012\Projects\entropyCalculator_ClusterBased\entropyCalculator_ClusterBased\obj\Debug\entropyCalculator_ClusterBased.exe
+c:\users\vpillai\documents\visual studio 2012\Projects\entropyCalculator_ClusterBased\entropyCalculator_ClusterBased\obj\Debug\entropyCalculator_ClusterBased.pdb
